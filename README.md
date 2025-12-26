@@ -17,4 +17,4 @@ Hands-on Python backend experiments and mini-projects focused on APIs, data hand
 All experiments and source code are organized inside the `src/` directory with examples and tests.
 
 ## Status
-🚧 Work in progress — continuously updated with new labs....
+🚧 Work in progress — continuously updated with new labs..
