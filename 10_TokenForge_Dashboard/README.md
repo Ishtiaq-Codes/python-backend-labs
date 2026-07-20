@@ -107,3 +107,4 @@ To run the full stack locally for development and testing:
 - Implement indexing via The Graph for historical transaction querying.
 - Add support for WalletConnect v2 for mobile wallet integration.
 - Introduce Role-Based Access Control (RBAC) instead of simple Ownable.
+
