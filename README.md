@@ -8,8 +8,9 @@ A collection of Solidity practice projects demonstrating blockchain fundamentals
 - Hardhat
 - OpenZeppelin
 - Ethereum Sepolia
-- JavaScript
-- React / Tailwind CSS
+- JavaScript / React / Tailwind CSS
+- Python (FastAPI / Django)
+- Web3.py
 
 ## Labs
 
@@ -23,3 +24,5 @@ A collection of Solidity practice projects demonstrating blockchain fundamentals
 8. ERC20 Token
 9. ERC721 NFT
 10. TokenForge Dashboard (Flagship Full-Stack Project)
+11. FastAPI Web3 Bridge (Python)
+12. Django Blockchain API (Python)
